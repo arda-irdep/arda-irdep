@@ -14,9 +14,7 @@
 
 ###
 
-<h3 align="left">Hi ! My name is Arda. I am a student at Işık University, Department of Management Information Systems. I am
-looking for an opportunity that will allow me to combine my passion for Software Development and IT and start a
-career in the tech industry. I enjoy working with different people and creating solutions to difficult problems.</h3>
+<h3 align="left">Hi, I'm Arda. I am a student at Işık University, Department of Management Information Systems. I am looking for an opportunity that will allow me to combine my passion for Software Development and IT and start a career in the tech industry. I enjoy working with different people and creating solutions to difficult problems.</h3>
 
 ###
 

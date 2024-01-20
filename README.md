@@ -22,7 +22,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,javascript)](https://skillicons.dev)
 
 ###
 
@@ -30,6 +30,6 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,mssql)](https://skillicons.dev)
 
 ###
